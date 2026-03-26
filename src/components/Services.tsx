@@ -28,13 +28,13 @@ const services = [
   {
     title: 'Tratamientos Lipedema',
     description: 'Especialistas en el cuidado y mejora de la calidad de vida con Lipedema.',
-    image: '/hero.png', // Fallback for now or I can generate another
+    image: '/lipedema.png',
     category: 'Salud'
   },
   {
     title: 'VacuSlim 48',
     description: 'Tratamiento intensivo reductor con resultados visibles en 48 horas.',
-    image: '/radiofrecuencia.png', // Fallback
+    image: '/vacuslim48.png',
     category: 'Express'
   }
 ];
